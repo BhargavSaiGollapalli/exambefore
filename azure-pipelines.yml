@@ -5,7 +5,7 @@
 
 trigger:
 - main
-
+print("hi")
 pool:
   vmImage: ubuntu-latest
 strategy:
